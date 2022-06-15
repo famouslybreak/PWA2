@@ -1,0 +1,23 @@
+{
+    "name": "Freeroms.my.id",
+    "short_name": "Freeroms",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWkAWbz8EYFiv5F41a0L4A2T_qWH2xaPIkRpud_-eMwhmBYhk8alt1v0Nug4OxLuYhs5ZXRbT3UnVhSOeyE_8NcC3ToBVqrDqzmj2zcVCz0jOJsTIkK1FN7JX3zNDGXrXYOHU_Kaib1Y1xhkSBljSZwh4snvOOrq8sWiBWRpeR54ZgEysFRVAJOKcp6w/s1600/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJoTMjXPY9fzrQJ3TYTvbhtqvVXuJdkdOZX0Hqqis4HjGRno8OAl26lLCp3WMigBRi_lnp3xYaqIV64sd2yDxNQtKWvxol25IS7HZ0tlaDeJGOXpPs5-u6W7y1XLpRMGy5VQdcDSYs1A0ApKkBKnLIKdDGzYiUTCF5FVxsAtxXfwzNu0j-7H7WG1FBWQ/s1600/android-icon-512%C3%97512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.saifullah.id"
+}
